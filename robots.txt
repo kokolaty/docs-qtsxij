@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-dvyvnj.saturadar88.shop/sitemap.xml
